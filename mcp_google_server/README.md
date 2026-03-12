@@ -1,0 +1,1 @@
+This folder has been renamed from mcp_google_server-z to mcp_google_server.
